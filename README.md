@@ -13,3 +13,4 @@ Proszę obejrzeć plik **sciezka.md**, aby otrzymać więcej informacji.
 Plik utworzony z pomocą dokumentacji:
 
 https://www.markdownguide.org/basic-syntax/"# WARP-05" 
+"# WARP-05" 
