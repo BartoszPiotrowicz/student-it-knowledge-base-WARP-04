@@ -1,0 +1,7 @@
+C:\Users\s38748\Documents\38748\PP\jgvvgvg\jgvvgvg\bin\Debug\jgvvgvg.exe.config
+C:\Users\s38748\Documents\38748\PP\jgvvgvg\jgvvgvg\bin\Debug\jgvvgvg.exe
+C:\Users\s38748\Documents\38748\PP\jgvvgvg\jgvvgvg\bin\Debug\jgvvgvg.pdb
+C:\Users\s38748\Documents\38748\PP\jgvvgvg\jgvvgvg\obj\Debug\jgvvgvg.csproj.AssemblyReference.cache
+C:\Users\s38748\Documents\38748\PP\jgvvgvg\jgvvgvg\obj\Debug\jgvvgvg.csproj.CoreCompileInputs.cache
+C:\Users\s38748\Documents\38748\PP\jgvvgvg\jgvvgvg\obj\Debug\jgvvgvg.exe
+C:\Users\s38748\Documents\38748\PP\jgvvgvg\jgvvgvg\obj\Debug\jgvvgvg.pdb
