@@ -69,5 +69,5 @@ Zbudowanie i uruchomienie wskazanego projektu.
 Przykład:
 
 ```
- dotnet clean
+dotnet clean
 ```
