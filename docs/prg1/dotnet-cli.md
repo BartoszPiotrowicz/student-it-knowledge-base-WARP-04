@@ -1,64 +1,73 @@
 # PRG1 cheatsheet
 
 ## dotnet --version
-Przykład: 	dotnet --version
-
-```
 Sprawdzenie zainstalowanej wersji zestawu .NET SDK.
+
+Przykład:
+```
+dotnet --version
 ```
 
 ## dotnet --list-sdks
-Przykład: dotnet --list-sdks
-
-```
 Wyświetlenie wszystkich dostępnych wersji SDK.
+
+Przykład: 
+```
+dotnet --list-sdks
 ```
 
 ## dotnet new list
-Przykład: dotnet new list
-
-```
 Wyświetlenie dostępnych szablonów projektów.
+
+Przykład: 
+```
+dotnet new list
 ```
 
 ## dotnet new console
-Przykład: 	dotnet new console
-
-```
 Utworzenie aplikacji konsolowej w bieżącym katalogu.
+
+Przykład: 
+```
+dotnet new console
 ```
 
 ## dotnet new console -n
-Przykład: dotnet new console -n MyApp
-
-```
 Utworzenie aplikacji konsolowej w katalogu MyApp.
+Przykład: 
+```
+dotnet new console -n MyApp
 ```
 
 ## dotnet restore
-Przykład: dotnet restore
-
-```
 Pobranie zależności wymaganych przez projekt.
+
+Przykład: 
+```
+dotnet restore
 ```
 
 ## dotnet build
-Przykład: 	dotnet build
-
-```
 Kompilacja projektu i odczyt komunikatów o błędach.
+
+Przykład: 	
+```
+dotnet build
 ```
 
 ## dotnet run
-Przykład: dotnet run --project MyApp
-
-```
 Zbudowanie i uruchomienie wskazanego projektu.
+
+Przykład: 
+```
+dotnet run --project MyApp
 ```
 
 ## dotnet clean
-Przykład: dotnet clean
+Zbudowanie i uruchomienie wskazanego projektu.
+
+Przykład:
 
 ```
-Zbudowanie i uruchomienie wskazanego projektu.
+ dotnet clean
 ```
