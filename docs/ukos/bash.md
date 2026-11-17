@@ -1,71 +1,82 @@
 # Bash cheatsheet
 
 ## pwd
-Przykład: pwd
-
-```
 Wyświetlanie ścieżki bieżącego katalogu.
+
+Przykład: 
+```
+pwd
 ```
 
 ## ls
-Przykład: ls -la
-
-```
 Listowanie plików, także ukrytych, w formacie szczegółowym.
+
+Przykład:
+```
+ls -la
 ```
 
 ## cd
-Przykład: cd /docs/warp
-
-```
 Przechodzenie do katalogu i katalogu nadrzędnego.
+
+Przykład:
+```
+cd /docs/warp
 ```
 
 ## mkdir
-Przykład: mkdir -p docs/warp
-
-```
 Tworzenie katalogu wraz z brakującymi katalogami nadrzędnymi.
+
+Przykład: 
+```
+
+mkdir -p docs/warp
 ```
 
 ## touch
-Przykład: touch git.md
-
-```
 Tworzenie pustego pliku lub aktualizacja czasu jego modyfikacji.
+
+Przykład:
+```
+touch git.md
 ```
 
 ## cp
-Przykład: cp git.md git-backup.md
+Kopiowanie pliku (opcja -r dla katalogów)
 
+Przykład: 
 ```
-Kopiowanie pliku; wspomnij o opcji -r dla katalogów.
+cp git.md git-backup.md
 ```
 
 ## mv
-Przykład: mv git-backup.md archive.md
-
-```
 Przenoszenie i zmiana nazwy pliku.
+
+Przykład: 
+```
+mv git-backup.md archive.md
 ```
 
 ## rm
-Przykład: rm archive.md
-
-```
 Usuwanie pliku i ostrzeżenie, że operacja omija kosz.
+
+Przykład: 
+```
+rm archive.md
 ```
 
 ## cat
-Przykład: cat git.md
-
-```
 Wyświetlanie zawartości pliku w terminalu.
+
+Przykład: 
+```
+cat git.md
 ```
 
 ## clear
-Przykład: clear
-
-```
 Czyszczenie widoku terminala bez usuwania historii poleceń.
+
+Przykład:
+```
+clear
 ```
